@@ -15,7 +15,7 @@ This [video](https://drive.google.com/file/d/1z5KqEyR4LMsolp6-xYnZ6-W5YQDlBxAr/v
 
 ## Credits 
 
-me, start code
+me, starter code
 
 ## License
 
